@@ -17,10 +17,11 @@
 | Google Cloud Plateform Next 18 |       |  [Replay Google Cloud Plateform Next 18](https://www.youtube.com/user/googlecloudplatform/search?query=next+18) |
 | Google Cloud Plateform Next 18 |       |  [Replay Google Cloud 17](https://www.youtube.com/playlist?list=PLIivdWyY5sqI8RuUibiH8sMb1ExIw0lAR) |
 | Ippon Technologies |       |  [Replay Ippon Technologies](https://www.youtube.com/user/ippontechtv/videos) |
-| Meetup PerfUG |       |  [Replay Meetup PerfUG](https://tv.octo.com/channels/#perfug) |
-| Meetup PAUG | GDG Paris Android User Group |  [Replay Meetup PAUG](https://www.youtube.com/user/ParisAndroidUG/videos) |
+| Meetup Agile Testing Paris |  |  [Replay Agile Testing Paris](https://www.youtube.com/channel/UCa_y1_TLJ9ZySWw7SeVUVoQ/videos) |
 | Meetup CriteoLabs | Meetup CriteoLabs |  [Replay Meetup CriteoLabs](https://www.youtube.com/channel/UCkSLkvWY7_QHSIvR4LyPIXw/videos) |
 | Meetup Matters Tech | [site Matters Tech](https://matters.tech/fr/) |  [Replay Meetup Matters Tech](https://www.youtube.com/channel/UCkSLkvWY7_QHSIvR4LyPIXw/videos) |
+| Meetup PAUG | GDG Paris Android User Group |  [Replay Meetup PAUG](https://www.youtube.com/user/ParisAndroidUG/videos) |
+| Meetup PerfUG |       |  [Replay Meetup PerfUG](https://tv.octo.com/channels/#perfug) |
 | Octo PetitDej |       |  [Replay Octo TV](https://tv.octo.com/channels/#petits-dejeuners) ou [Replay Octo PetitDej Youtube](https://www.youtube.com/playlist?list=PLBD8R108T9T5Z-65ZaMF12l3vlIrJV4QL) |
 | OVHSummit 17 |       |  [Replay OVHSummit 17](https://www.youtube.com/playlist?list=PL0DynEzr_sE4qfe1J8Z-FbD34hqF87X4q) |
 | OVHSummit 16 |       |  [Replay OVHSummit 16](https://www.youtube.com/playlist?list=PL0DynEzr_sE5Fdswiaj9Bht_Xyd-oanSc) |
