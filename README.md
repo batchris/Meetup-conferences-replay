@@ -28,6 +28,8 @@
 | OVHWorldTour 15 |       |  [Replay OVHSummit 15](https://www.youtube.com/playlist?list=PL0DynEzr_sE4h5sHxsdgdPsQFYiNT20XB) |
 | OVHMeetup |       |  [Replay OVHMeetup](https://www.youtube.com/playlist?list=PL0DynEzr_sE7DkYLr-hBxLMj68EZC_uPv) |
 | SOAT TechLab |       |  [Replay SOAT TechLab](https://www.youtube.com/playlist?list=PLmBpKvH44qVKoDUABuSkKfDAGUb0qaLy8) |
+| Paris Container Day 18 |       |  [Replay Paris Container Day 18](https://www.youtube.com/playlist?list=PLTQhofNmqyEe_hSmvYaP_EKpR7m0Bk2Je) |
+| Paris Container Day 17 |       |  [Replay Paris Container Day 17](https://www.youtube.com/playlist?list=PLTQhofNmqyEf6IUbcCtaUPkHk1nJXnQzL) |
 | XebiCon'18 |       |  [Replay XebiCon'18](https://www.youtube.com/playlist?list=PL-Wbj9VN8zDSIqte8_DzhXesC8GwfksX2) |
 | XebiCon'17 |       |  [Replay XebiCon'17](https://www.youtube.com/playlist?list=PL-Wbj9VN8zDQIklcuAEoBlsTiFwBlO9zD) |
 | XebiCon'16 |       |  [Replay XebiCon'16](https://www.youtube.com/playlist?list=PL-Wbj9VN8zDSdEBpm-QNTxaSwEytxzwv_) |
