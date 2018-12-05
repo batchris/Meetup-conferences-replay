@@ -25,6 +25,7 @@
 | Google Cloud Plateform Next 18 |       |  [Replay Google Cloud Plateform Next 18](https://www.youtube.com/user/googlecloudplatform/search?query=next+18) |
 | Google Cloud Plateform Next 17 |       |  [Replay Google Cloud 17](https://www.youtube.com/playlist?list=PLIivdWyY5sqI8RuUibiH8sMb1ExIw0lAR) |
 | Ippon Technologies |       |  [Replay Ippon Technologies](https://www.youtube.com/user/ippontechtv/videos) |
+| JCSA  | Journée du Conseil Scientifique Afnic       |  [Replay JCSA](https://www.youtube.com/user/AfnicVideo/playlists) |
 | LeWeb 14 |       |  [Replay LeWeb 14](https://www.youtube.com/user/leweb/videos) |
 | La Quadrature du Net |  [site lqdn](https://www.laquadrature.net/)  | [Replay La Quadrature du Net](https://video.lqdn.fr/) |
 | Meetup Agile Testing Paris |  |  [Replay Agile Testing Paris](https://www.youtube.com/channel/UCa_y1_TLJ9ZySWw7SeVUVoQ/videos) |
@@ -38,6 +39,7 @@
 | Meetup PerfUG |  [meetup PerfUG](https://www.meetup.com/fr-FR/PerfUG/)     |  [Replay Meetup PerfUG](https://tv.octo.com/channels/#perfug) |
 | Meetup The Family Paris | [site du TheFamilyMeetupsParis](https://www.meetup.com/fr-FR/TheFamilyMeetupsParis/)       |  [Replay The Family Paris](https://www.youtube.com/user/Startupfood/videos) |
 | Octo PetitDej |       |  [Replay Octo TV](https://tv.octo.com/channels/#petits-dejeuners) ou [Replay Octo PetitDej Youtube](https://www.youtube.com/playlist?list=PLBD8R108T9T5Z-65ZaMF12l3vlIrJV4QL) |
+| NDSS Symposium |  [meetup NDSS Symposium](https://www.ndss-symposium.org/)     |  [Replay NDSS Symposium](https://www.youtube.com/channel/UCL2H6Z8JNydJgOjbmfu7JFg/videos) |
 | OVHSummit 17 |       |  [Replay OVHSummit 17](https://www.youtube.com/playlist?list=PL0DynEzr_sE4qfe1J8Z-FbD34hqF87X4q) |
 | OVHSummit 16 |       |  [Replay OVHSummit 16](https://www.youtube.com/playlist?list=PL0DynEzr_sE5Fdswiaj9Bht_Xyd-oanSc) |
 | OVHSummit 15 |       |  [Replay OVHSummit 15](https://www.youtube.com/playlist?list=PL0DynEzr_sE7hO-dI1VPSqgcabttXUXc6) |
@@ -46,6 +48,7 @@
 | Paris Container Day 18 |  [site PCD](https://paris-container-day.fr/)     |  [Replay Paris Container Day 18](https://www.youtube.com/playlist?list=PLTQhofNmqyEe_hSmvYaP_EKpR7m0Bk2Je) |
 | Paris Container Day 17 |  [site PCD](https://paris-container-day.fr/)     |  [Replay Paris Container Day 17](https://www.youtube.com/playlist?list=PLTQhofNmqyEf6IUbcCtaUPkHk1nJXnQzL) |
 | Paris.rb 18 Conf | [site Paris.rb 18 Conf](https://2018.rubyparis.org/) |  [Replay Paris.rb 18 Conf](https://www.youtube.com/playlist?list=PLjyiiigeVQV_mHcSnJnw_1LR4nzGrdF4l) |
+| Paris WEB | [site Paris WEB](https://www.paris-web.fr/)     |  [Replay Paris WEB](https://www.youtube.com/channel/UC8AOBMglVWb-At1GOndGs_A/videos) |
 | SOAT TechLab |       |  [Replay SOAT TechLab](https://www.youtube.com/playlist?list=PLmBpKvH44qVKoDUABuSkKfDAGUb0qaLy8) |
 | SIDO Lyon 18 |  [site SIDO](https://www.sido-event.com/)     |  [Replay SIDO Lyon 18](https://www.youtube.com/playlist?list=PL0NeMcSksQygrQmA0ttl8KDMSbWVhikbr) |
 | SIDO Lyon 17 |  [site SIDO](https://www.sido-event.com/)      |  [Replay SIDO Lyon 17](https://www.youtube.com/playlist?list=PL0NeMcSksQygMZx0YRXkdsoQdRZCWVCJC) |
@@ -54,6 +57,7 @@
 | Sysadmin Days |  [site Sysadmin Days](https://sysadmindays.fr/)     |  [Replay Sysadmin Days](https://www.youtube.com/channel/UCaQKuDuDgWvidE9295o09OQ/videos) |
 | takeoff.rocks |  [site takeoff rocks](http://takeoff.rocks/)     |  [Replay takeoff rocks](https://www.youtube.com/channel/UCiX3HnKxNOGBRE5twjltFgA/videos) |
 | VivaTech 18 |  [site VivaTech 18](https://vivatechnology.com/)     |  [Replay VivaTech 18](https://www.youtube.com/playlist?list=PLFku28ckG18KW-R5M4rq6MOSeE8In88mT) |
+| FIC | International Forum on Cybersecurity [site FIC](https://www.forum-fic.com/)     |  [Replay FIC](https://www.youtube.com/user/WebTVFIC/videos) |
 | XebiCon'18 |       |  [Replay XebiCon'18](https://www.youtube.com/playlist?list=PL-Wbj9VN8zDSIqte8_DzhXesC8GwfksX2) |
 | XebiCon'17 |       |  [Replay XebiCon'17](https://www.youtube.com/playlist?list=PL-Wbj9VN8zDQIklcuAEoBlsTiFwBlO9zD) |
 | XebiCon'16 |       |  [Replay XebiCon'16](https://www.youtube.com/playlist?list=PL-Wbj9VN8zDSdEBpm-QNTxaSwEytxzwv_) |
