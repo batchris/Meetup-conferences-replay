@@ -23,6 +23,7 @@
 | Meetup CriteoLabs | Meetup CriteoLabs |  [Replay Meetup CriteoLabs](https://www.youtube.com/channel/UCkSLkvWY7_QHSIvR4LyPIXw/videos) |
 | Meetup Matters Tech | [site Matters Tech](https://matters.tech/fr/) |  [Replay Meetup Matters Tech](https://www.youtube.com/channel/UCkSLkvWY7_QHSIvR4LyPIXw/videos) |
 | Meetup ParisAPI | [site Meetup ParisAPI](https://www.meetup.com/fr-FR/ParisAPI/) |  [Replay Meetup ParisAPI](https://www.youtube.com/channel/UCzmT07zZMX_uAx88MgLK4xQ/videos) |
+| Meetup Paris.rb | [site Meetup Paris.rb](https://www.meetup.com/fr-FR/parisrb/) |  [Replay Meetup Paris.rb](https://www.youtube.com/playlist?list=PLjyiiigeVQV_NC9aTjrmRJeQGOA5ECSlM) |
 | Meetup PAUG | GDG Paris Android User Group |  [Replay Meetup PAUG](https://www.youtube.com/user/ParisAndroidUG/videos) |
 | Meetup PerfUG |       |  [Replay Meetup PerfUG](https://tv.octo.com/channels/#perfug) |
 | Meetup The Family Paris | [site du TheFamilyMeetupsParis](https://www.meetup.com/fr-FR/TheFamilyMeetupsParis/)       |  [Replay The Family Paris](https://www.youtube.com/user/Startupfood/videos) |
@@ -34,6 +35,7 @@
 | OVHMeetup |       |  [Replay OVHMeetup](https://www.youtube.com/playlist?list=PL0DynEzr_sE7DkYLr-hBxLMj68EZC_uPv) |
 | Paris Container Day 18 |  [site PCD](https://paris-container-day.fr/)     |  [Replay Paris Container Day 18](https://www.youtube.com/playlist?list=PLTQhofNmqyEe_hSmvYaP_EKpR7m0Bk2Je) |
 | Paris Container Day 17 |  [site PCD](https://paris-container-day.fr/)     |  [Replay Paris Container Day 17](https://www.youtube.com/playlist?list=PLTQhofNmqyEf6IUbcCtaUPkHk1nJXnQzL) |
+| Paris.rb 18 Conf | [site Paris.rb 18 Conf](https://2018.rubyparis.org/) |  [Replay Paris.rb 18 Conf](https://www.youtube.com/playlist?list=PLjyiiigeVQV_mHcSnJnw_1LR4nzGrdF4l) |
 | SOAT TechLab |       |  [Replay SOAT TechLab](https://www.youtube.com/playlist?list=PLmBpKvH44qVKoDUABuSkKfDAGUb0qaLy8) |
 | XebiCon'18 |       |  [Replay XebiCon'18](https://www.youtube.com/playlist?list=PL-Wbj9VN8zDSIqte8_DzhXesC8GwfksX2) |
 | XebiCon'17 |       |  [Replay XebiCon'17](https://www.youtube.com/playlist?list=PL-Wbj9VN8zDQIklcuAEoBlsTiFwBlO9zD) |
