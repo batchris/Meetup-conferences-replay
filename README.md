@@ -52,6 +52,7 @@
 | SIDO Lyon 15 |  [site SIDO](https://www.sido-event.com/)     |  [Replay SIDO Lyon 15](https://www.youtube.com/playlist?list=PL0NeMcSksQygDlpxq8v6a3d18JbDIL2rK) |
 | Sysadmin Days |  [site Sysadmin Days](https://sysadmindays.fr/)     |  [Replay Sysadmin Days](https://www.youtube.com/channel/UCaQKuDuDgWvidE9295o09OQ/videos) |
 | takeoff.rocks |  [site takeoff rocks](http://takeoff.rocks/)     |  [Replay takeoff rocks](https://www.youtube.com/channel/UCiX3HnKxNOGBRE5twjltFgA/videos) |
+| VivaTech 18 |  [site VivaTech 18](https://vivatechnology.com/)     |  [Replay VivaTech 18](https://www.youtube.com/playlist?list=PLFku28ckG18KW-R5M4rq6MOSeE8In88mT) |
 | XebiCon'18 |       |  [Replay XebiCon'18](https://www.youtube.com/playlist?list=PL-Wbj9VN8zDSIqte8_DzhXesC8GwfksX2) |
 | XebiCon'17 |       |  [Replay XebiCon'17](https://www.youtube.com/playlist?list=PL-Wbj9VN8zDQIklcuAEoBlsTiFwBlO9zD) |
 | XebiCon'16 |       |  [Replay XebiCon'16](https://www.youtube.com/playlist?list=PL-Wbj9VN8zDSdEBpm-QNTxaSwEytxzwv_) |
