@@ -24,6 +24,7 @@
 | Meetup Matters Tech | [site Matters Tech](https://matters.tech/fr/) |  [Replay Meetup Matters Tech](https://www.youtube.com/channel/UCkSLkvWY7_QHSIvR4LyPIXw/videos) |
 | Meetup PAUG | GDG Paris Android User Group |  [Replay Meetup PAUG](https://www.youtube.com/user/ParisAndroidUG/videos) |
 | Meetup PerfUG |       |  [Replay Meetup PerfUG](https://tv.octo.com/channels/#perfug) |
+| Meetup The Family Paris | [site du TheFamilyMeetupsParis](https://www.meetup.com/fr-FR/TheFamilyMeetupsParis/)       |  [Replay Meetup PerfUG](https://tv.octo.com/channels/#perfug) |
 | Octo PetitDej |       |  [Replay Octo TV](https://tv.octo.com/channels/#petits-dejeuners) ou [Replay Octo PetitDej Youtube](https://www.youtube.com/playlist?list=PLBD8R108T9T5Z-65ZaMF12l3vlIrJV4QL) |
 | OVHSummit 17 |       |  [Replay OVHSummit 17](https://www.youtube.com/playlist?list=PL0DynEzr_sE4qfe1J8Z-FbD34hqF87X4q) |
 | OVHSummit 16 |       |  [Replay OVHSummit 16](https://www.youtube.com/playlist?list=PL0DynEzr_sE5Fdswiaj9Bht_Xyd-oanSc) |
