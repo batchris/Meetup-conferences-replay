@@ -26,6 +26,7 @@
 | Google Cloud Plateform Next 17 |       |  [Replay Google Cloud 17](https://www.youtube.com/playlist?list=PLIivdWyY5sqI8RuUibiH8sMb1ExIw0lAR) |
 | Ippon Technologies |       |  [Replay Ippon Technologies](https://www.youtube.com/user/ippontechtv/videos) |
 | LeWeb 14 |       |  [Replay LeWeb 14](https://www.youtube.com/user/leweb/videos) |
+| La Quadrature du Net |  [site lqdn](https://www.laquadrature.net/)  | [Replay La Quadrature du Net](https://video.lqdn.fr/) |
 | Meetup Agile Testing Paris |  |  [Replay Agile Testing Paris](https://www.youtube.com/channel/UCa_y1_TLJ9ZySWw7SeVUVoQ/videos) |
 | Meetup Chatbots Paris | [Meetup Chatbots Paris](https://www.meetup.com/fr-FR/Chatbots-Paris/) |  [Replay Meetup Chatbots Paris](https://www.youtube.com/channel/UCQpPvZaggIbwMe4ucKaQwGw) |
 | Meetup CriteoLabs | [Meetup CriteoLabs](https://www.meetup.com/fr-FR/Criteo-Labs-Tech-Talks/) |  [Replay Meetup CriteoLabs](https://www.youtube.com/channel/UCkSLkvWY7_QHSIvR4LyPIXw/videos) |
