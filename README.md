@@ -37,10 +37,13 @@
 | Paris Container Day 17 |  [site PCD](https://paris-container-day.fr/)     |  [Replay Paris Container Day 17](https://www.youtube.com/playlist?list=PLTQhofNmqyEf6IUbcCtaUPkHk1nJXnQzL) |
 | Paris.rb 18 Conf | [site Paris.rb 18 Conf](https://2018.rubyparis.org/) |  [Replay Paris.rb 18 Conf](https://www.youtube.com/playlist?list=PLjyiiigeVQV_mHcSnJnw_1LR4nzGrdF4l) |
 | SOAT TechLab |       |  [Replay SOAT TechLab](https://www.youtube.com/playlist?list=PLmBpKvH44qVKoDUABuSkKfDAGUb0qaLy8) |
+| SIDO Lyon 18 |  [site SIDO](https://www.sido-event.com/)     |  [Replay SIDO Lyon 18](https://www.youtube.com/playlist?list=PL0NeMcSksQygrQmA0ttl8KDMSbWVhikbr) |
+| SIDO Lyon 17 |  [site SIDO](https://www.sido-event.com/)      |  [Replay SIDO Lyon 17](https://www.youtube.com/playlist?list=PL0NeMcSksQygMZx0YRXkdsoQdRZCWVCJC) |
+| SIDO Lyon 16 |  [site SIDO](https://www.sido-event.com/)     |  [Replay SIDO Lyon 16](https://www.youtube.com/playlist?list=PL0NeMcSksQygjogFUrgXcxUjG5LvYAWJ1) |
+| SIDO Lyon 15 |  [site SIDO](https://www.sido-event.com/)     |  [Replay SIDO Lyon 15](https://www.youtube.com/playlist?list=PL0NeMcSksQygDlpxq8v6a3d18JbDIL2rK) |
 | XebiCon'18 |       |  [Replay XebiCon'18](https://www.youtube.com/playlist?list=PL-Wbj9VN8zDSIqte8_DzhXesC8GwfksX2) |
 | XebiCon'17 |       |  [Replay XebiCon'17](https://www.youtube.com/playlist?list=PL-Wbj9VN8zDQIklcuAEoBlsTiFwBlO9zD) |
 | XebiCon'16 |       |  [Replay XebiCon'16](https://www.youtube.com/playlist?list=PL-Wbj9VN8zDSdEBpm-QNTxaSwEytxzwv_) |
 | XebiCon'15 |       |  [Replay XebiCon'18](https://www.youtube.com/playlist?list=PL0DynEzr_sE7DkYLr-hBxLMj68EZC_uPv) |
 | XebiCon'15 |       |  [Replay XebiCon'18](https://www.youtube.com/playlist?list=PL-Wbj9VN8zDTRHZ0_Y5FX0xYrn1sv9oBF) |
-
-
+| LeWeb 14 |       |  [Replay LeWeb 14](| XebiCon'15 |       |  [Replay XebiCon'18](https://www.youtube.com/playlist?list=PL-Wbj9VN8zDTRHZ0_Y5FX0xYrn1sv9oBF) |
