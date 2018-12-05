@@ -1,5 +1,7 @@
 # Meetup-conferences-replay
 
+```vous pouvez m'envoyer l'url de vos replay de meetup ou conférence via des pull requests```
+
 | Meetup & Conférences   |      Infos      |  Replay |
 |----------|-------------|------|
 | AWS Summit 18 |  [site AWS Summit](https://aws.amazon.com/fr/summits/paris/)  | [Replay AWS Summit 18](https://www.youtube.com/playlist?list=PLL_L4MF1Z7JW42kxNAeE5-iTw23i_7jYX) |
