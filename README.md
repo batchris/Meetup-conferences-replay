@@ -21,12 +21,13 @@
 | Ippon Technologies |       |  [Replay Ippon Technologies](https://www.youtube.com/user/ippontechtv/videos) |
 | LeWeb 14 |       |  [Replay LeWeb 14](https://www.youtube.com/user/leweb/videos) |
 | Meetup Agile Testing Paris |  |  [Replay Agile Testing Paris](https://www.youtube.com/channel/UCa_y1_TLJ9ZySWw7SeVUVoQ/videos) |
-| Meetup CriteoLabs | Meetup CriteoLabs |  [Replay Meetup CriteoLabs](https://www.youtube.com/channel/UCkSLkvWY7_QHSIvR4LyPIXw/videos) |
+| Meetup Chatbots Paris | [Meetup Chatbots Paris](https://www.meetup.com/fr-FR/Chatbots-Paris/) |  [Replay Meetup Chatbots Paris](https://www.youtube.com/channel/UCQpPvZaggIbwMe4ucKaQwGw) |
+| Meetup CriteoLabs | [Meetup CriteoLabs](https://www.meetup.com/fr-FR/Criteo-Labs-Tech-Talks/) |  [Replay Meetup CriteoLabs](https://www.youtube.com/channel/UCkSLkvWY7_QHSIvR4LyPIXw/videos) |
 | Meetup Matters Tech | [site Matters Tech](https://matters.tech/fr/) |  [Replay Meetup Matters Tech](https://www.youtube.com/channel/UCkSLkvWY7_QHSIvR4LyPIXw/videos) |
 | Meetup ParisAPI | [site Meetup ParisAPI](https://www.meetup.com/fr-FR/ParisAPI/) |  [Replay Meetup ParisAPI](https://www.youtube.com/channel/UCzmT07zZMX_uAx88MgLK4xQ/videos) |
 | Meetup Paris.rb | [site Meetup Paris.rb](https://www.meetup.com/fr-FR/parisrb/) |  [Replay Meetup Paris.rb](https://www.youtube.com/playlist?list=PLjyiiigeVQV_NC9aTjrmRJeQGOA5ECSlM) |
-| Meetup PAUG | GDG Paris Android User Group |  [Replay Meetup PAUG](https://www.youtube.com/user/ParisAndroidUG/videos) |
-| Meetup PerfUG |       |  [Replay Meetup PerfUG](https://tv.octo.com/channels/#perfug) |
+| Meetup PAUG | [GDG Paris Android User Group](https://www.meetup.com/fr-FR/Android-Paris/) |  [Replay Meetup PAUG](https://www.youtube.com/user/ParisAndroidUG/videos) |
+| Meetup PerfUG |  [meetup PerfUG](https://www.meetup.com/fr-FR/PerfUG/)     |  [Replay Meetup PerfUG](https://tv.octo.com/channels/#perfug) |
 | Meetup The Family Paris | [site du TheFamilyMeetupsParis](https://www.meetup.com/fr-FR/TheFamilyMeetupsParis/)       |  [Replay The Family Paris](https://www.youtube.com/user/Startupfood/videos) |
 | Octo PetitDej |       |  [Replay Octo TV](https://tv.octo.com/channels/#petits-dejeuners) ou [Replay Octo PetitDej Youtube](https://www.youtube.com/playlist?list=PLBD8R108T9T5Z-65ZaMF12l3vlIrJV4QL) |
 | OVHSummit 17 |       |  [Replay OVHSummit 17](https://www.youtube.com/playlist?list=PL0DynEzr_sE4qfe1J8Z-FbD34hqF87X4q) |
