@@ -62,5 +62,4 @@
 | XebiCon'18 |       |  [Replay XebiCon'18](https://www.youtube.com/playlist?list=PL-Wbj9VN8zDSIqte8_DzhXesC8GwfksX2) |
 | XebiCon'17 |       |  [Replay XebiCon'17](https://www.youtube.com/playlist?list=PL-Wbj9VN8zDQIklcuAEoBlsTiFwBlO9zD) |
 | XebiCon'16 |       |  [Replay XebiCon'16](https://www.youtube.com/playlist?list=PL-Wbj9VN8zDSdEBpm-QNTxaSwEytxzwv_) |
-| XebiCon'15 |       |  [Replay XebiCon'18](https://www.youtube.com/playlist?list=PL0DynEzr_sE7DkYLr-hBxLMj68EZC_uPv) |
-| XebiCon'15 |       |  [Replay XebiCon'18](https://www.youtube.com/playlist?list=PL-Wbj9VN8zDTRHZ0_Y5FX0xYrn1sv9oBF) |
+| XebiCon'15 |       |  [Replay XebiCon'15](https://www.youtube.com/playlist?list=PL-Wbj9VN8zDTRHZ0_Y5FX0xYrn1sv9oBF) |
