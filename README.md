@@ -32,6 +32,7 @@
 | Meetup Chatbots Paris | [Meetup Chatbots Paris](https://www.meetup.com/fr-FR/Chatbots-Paris/) |  [Replay Meetup Chatbots Paris](https://www.youtube.com/channel/UCQpPvZaggIbwMe4ucKaQwGw) |
 | Meetup CriteoLabs | [Meetup CriteoLabs](https://www.meetup.com/fr-FR/Criteo-Labs-Tech-Talks/) |  [Replay Meetup CriteoLabs](https://www.youtube.com/channel/UCkSLkvWY7_QHSIvR4LyPIXw/videos) |
 | Meetup ElasticFR | [Meetup ElasticFR](https://www.meetup.com/fr-FR/ElasticFR/) |  [Replay Meetup ElasticFR](https://www.youtube.com/playlist?list=PLhLSfisesZIuhYrMtNXL7RUh-b3hwNokk) |
+| Meetup Golang Paris | [Meetup Golang Paris](https://www.meetup.com/fr-FR/Golang-Paris/) |  [Replay Meetup Golang Paris](https://www.youtube.com/channel/UCoihYsdwVERJ_m1VseLmyYg) |
 | Meetup Matters Tech | [site Matters Tech](https://matters.tech/fr/) |  [Replay Meetup Matters Tech](https://www.youtube.com/channel/UCkSLkvWY7_QHSIvR4LyPIXw/videos) |
 | Meetup ParisAPI | [site Meetup ParisAPI](https://www.meetup.com/fr-FR/ParisAPI/) |  [Replay Meetup ParisAPI](https://www.youtube.com/channel/UCzmT07zZMX_uAx88MgLK4xQ/videos) |
 | Meetup Paris.rb | [site Meetup Paris.rb](https://www.meetup.com/fr-FR/parisrb/) |  [Replay Meetup Paris.rb](https://www.youtube.com/playlist?list=PLjyiiigeVQV_NC9aTjrmRJeQGOA5ECSlM) |
