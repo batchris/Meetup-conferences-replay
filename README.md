@@ -24,6 +24,7 @@
 | Devoxx18 |  [site Devoxx](https://www.devoxx.fr/)  | [Replay Devoxx 18](https://www.youtube.com/playlist?list=PLTbQvx84FrARa9pUtZYK7t_UfyGMCPOBn) |
 | Devoxx17 |  [site Devoxx](https://www.devoxx.fr/)  | [Replay Devoxx 17](https://www.youtube.com/playlist?list=PLTbQvx84FrASpPvTGt_0BzttHUvMEvXyP) |
 | Devoxx16 |  [site Devoxx](https://www.devoxx.fr/)  | [Replay Devoxx 16](https://www.youtube.com/playlist?list=PLTbQvx84FrAS5clN9i8_LFUQxcMY7qXAO) |
+| FOSDSEM |  [site FOSDEM](https://fosdem.org/)  | [Replay FOSDEM](https://video.fosdem.org/) |
 | Google Cloud Plateform Next 18 |       |  [Replay Google Cloud Plateform Next 18](https://www.youtube.com/user/googlecloudplatform/search?query=next+18) |
 | Google Cloud Plateform Next 17 |       |  [Replay Google Cloud 17](https://www.youtube.com/playlist?list=PLIivdWyY5sqI8RuUibiH8sMb1ExIw0lAR) |
 | Ippon Technologies |       |  [Replay Ippon Technologies](https://www.youtube.com/user/ippontechtv/videos) |
