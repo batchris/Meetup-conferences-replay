@@ -2,6 +2,9 @@
 
 ```vous pouvez m'envoyer l'url de vos replay de meetup ou conférence via des pull requests```
 
+
+
+
 | Meetup & Conférences   |      Infos      |  Replay |
 |----------|-------------|------|
 | all things open 18 |  [site all things open](https://allthingsopen.org/)  | [Replay all things open 18](https://www.youtube.com/playlist?list=PL4jrq6cG7S47C5WGpnU3A6o8admshPNe0) |
@@ -26,6 +29,7 @@
 | Devoxx17 |  [site Devoxx](https://www.devoxx.fr/)  | [Replay Devoxx 17](https://www.youtube.com/playlist?list=PLTbQvx84FrASpPvTGt_0BzttHUvMEvXyP) |
 | Devoxx16 |  [site Devoxx](https://www.devoxx.fr/)  | [Replay Devoxx 16](https://www.youtube.com/playlist?list=PLTbQvx84FrAS5clN9i8_LFUQxcMY7qXAO) |
 | FOSDSEM |  [site FOSDEM](https://fosdem.org/)  | [Replay FOSDEM](https://video.fosdem.org/) |
+| voxxeddays luxembourg |  [site voxxeddays luxembourg](https://voxxeddays.com/luxembourg/)  | [Replay voxxeddays luxembourg](https://www.youtube.com/channel/UCPLFcPPtjRCVVa4yxm-EEgA/playlists) |
 | Google Cloud Plateform Next 18 |       |  [Replay Google Cloud Plateform Next 18](https://www.youtube.com/user/googlecloudplatform/search?query=next+18) |
 | Google Cloud Plateform Next 17 |       |  [Replay Google Cloud 17](https://www.youtube.com/playlist?list=PLIivdWyY5sqI8RuUibiH8sMb1ExIw0lAR) |
 | Ippon Technologies |       |  [Replay Ippon Technologies](https://www.youtube.com/user/ippontechtv/videos) |
