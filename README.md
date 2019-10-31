@@ -59,6 +59,7 @@
 | Paris Container Day 17 |  [site PCD](https://paris-container-day.fr/)     |  [Replay Paris Container Day 17](https://www.youtube.com/playlist?list=PLTQhofNmqyEf6IUbcCtaUPkHk1nJXnQzL) |
 | Paris.rb 18 Conf | [site Paris.rb 18 Conf](https://2018.rubyparis.org/) |  [Replay Paris.rb 18 Conf](https://www.youtube.com/playlist?list=PLjyiiigeVQV_mHcSnJnw_1LR4nzGrdF4l) |
 | Paris WEB | [site Paris WEB](https://www.paris-web.fr/)     |  [Replay Paris WEB](https://www.youtube.com/channel/UC8AOBMglVWb-At1GOndGs_A/videos) |
+| PHP FORUM | [site PHP FORUM](https://event.afup.org)     |  [Replay PHP FORUM](https://www.youtube.com/user/afupPHP/playlists) |
 | SOAT TechLab |       |  [Replay SOAT TechLab](https://www.youtube.com/playlist?list=PLmBpKvH44qVKoDUABuSkKfDAGUb0qaLy8) |
 | SIDO Lyon 18 |  [site SIDO](https://www.sido-event.com/)     |  [Replay SIDO Lyon 18](https://www.youtube.com/playlist?list=PL0NeMcSksQygrQmA0ttl8KDMSbWVhikbr) |
 | SIDO Lyon 17 |  [site SIDO](https://www.sido-event.com/)      |  [Replay SIDO Lyon 17](https://www.youtube.com/playlist?list=PL0NeMcSksQygMZx0YRXkdsoQdRZCWVCJC) |
