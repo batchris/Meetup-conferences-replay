@@ -13,9 +13,10 @@
 | all things open 15 |  [site all things open](https://allthingsopen.org/)  | [Replay all things open 18](https://www.youtube.com/playlist?list=PL4jrq6cG7S45weX1mb-o7H4bRG3YHrCyS) |
 | all things open 14 |  [site all things open](https://allthingsopen.org/)  | [Replay all things open 18](https://www.youtube.com/playlist?list=PL4jrq6cG7S47QXPGOm8XVRtDeozukalVo) |
 | APIDays |  [site APIDays](https://www.apidays.co/)  | [Replay APiDays](https://www.youtube.com/user/apidays/videos) |
-| AWS Summit 18 |  [site AWS Summit](https://aws.amazon.com/fr/summits/paris/)  | [Replay AWS Summit 18](https://www.youtube.com/playlist?list=PLL_L4MF1Z7JW42kxNAeE5-iTw23i_7jYX) |
-| AWS Summit 17 |  [site AWS Summit](https://aws.amazon.com/fr/summits/paris/)  | [Replay AWS Summit 18](https://www.youtube.com/playlist?list=PLL_L4MF1Z7JWq6_yg-a5afiAiitF54QsI) |
-| AWS Summit 16 |  [site AWS Summit](https://aws.amazon.com/fr/summits/paris/)  | [Replay AWS Summit 16](https://www.youtube.com/playlist?list=PLL_L4MF1Z7JUYXs09gkZRcrNGwIXd1YVk) |
+| AWS Summit Paris 19 |  [site AWS Summit](https://aws.amazon.com/fr/summits/paris/)  | [Replay AWS Summit 19](https://www.youtube.com/playlist?list=PLL_L4MF1Z7JXx8qRk3bISMG29Zc7k2mDE) |
+| AWS Summit Paris 18 |  [site AWS Summit](https://aws.amazon.com/fr/summits/paris/)  | [Replay AWS Summit 18](https://www.youtube.com/playlist?list=PLL_L4MF1Z7JW42kxNAeE5-iTw23i_7jYX) |
+| AWS Summit Paris 17 |  [site AWS Summit](https://aws.amazon.com/fr/summits/paris/)  | [Replay AWS Summit 18](https://www.youtube.com/playlist?list=PLL_L4MF1Z7JWq6_yg-a5afiAiitF54QsI) |
+| AWS Summit Paris 16 |  [site AWS Summit](https://aws.amazon.com/fr/summits/paris/)  | [Replay AWS Summit 16](https://www.youtube.com/playlist?list=PLL_L4MF1Z7JUYXs09gkZRcrNGwIXd1YVk) |
 | BreizhCamp |  [site BreizhCamp](https://www.breizhcamp.org/)  | [Replay BreizhCamp](https://www.youtube.com/user/BreizhCamp/videos) |
 | BDX.IO 18 |  [site BDX.IO](https://www.bdx.io/)  | [Replay bdx.io 18](https://www.youtube.com/playlist?list=PLUJzERpatfsWJ6qlXnlCPC5g0nFQN7Z5N) |
 | BDX.IO 17 |  [site BDX.IO](https://www.bdx.io/)  | [Replay bdx.io 17](https://www.youtube.com/playlist?list=PLUJzERpatfsW5PbUcMAIOIqfCoqS7K1F1) |
